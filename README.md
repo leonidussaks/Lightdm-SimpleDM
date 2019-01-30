@@ -30,5 +30,5 @@ how to install font? google.com
 
 
 ## Screenshot 
-![](i.imgur.com/gY96uUC.png)
-![](https://imgur.com/gY96uUC)
+![](screen1.png)
+![](screen2.png)
