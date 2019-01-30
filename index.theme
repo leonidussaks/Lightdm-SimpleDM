@@ -1,6 +1,6 @@
 [theme]
-name=lightdm-gab-gradient
-description=Animated Gradient background
+name=lightdm-SimpleDM
+description=lightdm-SimpleDM
 engine=lightdm-webkit-greeter
 url=index.html
 session=xubuntu
