@@ -3,6 +3,8 @@
 ## Lightdm-SimpleDM
 - animated Button!
 - Support MultiAccount
+- Button shutdown/reboot
+- Minimalistic
 <br>
 <br>
 
@@ -12,7 +14,6 @@ Instructions will differ for every platform, but install it on `Xubuntu`
 1. Install fonts for your system<br>
 - Segoe UI : https://github.com/meloncholy/mt-stats-viewer/raw/master/public/fonts/segoe-ui/segoeui.ttf
 - iosevka  : https://github.com/be5invis/Iosevka/releases/download/v2.0.1/01-iosevka-2.0.1.zip
-how to install font? google.com
 2. Install and enable `lightdm` and `lightdm-webkit-greeter`
 3. In the terminal, navigate to `/usr/share/lightdm-webkit/themes/`
 4. Clone this repository here, it should create a folder called `lightdm-SimpleDM`
@@ -23,7 +24,7 @@ how to install font? google.com
 <br>
 
 ## settings
-1. You can change background. Check the /lightdm-SimpleDM/static/bg2.jpg - this background
+1. You can change background. Check the /lightdm-SimpleDM/static/bg2.jpg
 
 <br>
 <br>
