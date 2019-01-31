@@ -5,6 +5,7 @@
 - Support MultiAccount
 - Button shutdown/reboot
 - Minimalistic
+- optimized
 <br>
 <br>
 
